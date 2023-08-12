@@ -5,25 +5,75 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6f2c054-1bef-4f7e-9e4f-02149c737ed8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/AddOrRemoveElementsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/AlertsPage.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/CheckBoxsPage.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/CheckBrokenImagesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/ContextMenuPage.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/ContextmenuPage2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/DisappearingElementsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/DropdownPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/DynamicLoadingExample1Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/DynamicLoadingExample2Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/DynamicLoadingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/EmailSentPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/FileUploadPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/ForgotPasswordPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/FramesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/HorizontalSliderPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/HoversPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/InfiniteScrollPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/KeyPressesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/LargeAndDeepDomPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/MultipleWindowsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/NestedFramesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/SecureAreaPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/WysiwygEditorPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/utils/CookieManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/utils/EventReporter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/utils/Helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/utils/WindowManager.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/AddOrRemoveBtn/AddorRemoveTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/CheckBrokenImages/CheckBrokenImagesTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/Checkbox/CheckBoxTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/DisappearingElements/DisappearingElementsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/alerts/AlertTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/alerts/FileUploadTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/base/BaseTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/dropdown/DropdownTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/exercises/chapter10/javascript/JavaScriptTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/exercises/chapter11/windows/WindowTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/exercises/chapter14/cookies/CookiesTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/exercises/chapter3/menu/MenuCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/exercises/chapter4/passwords/ForgotPasswordTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/exercises/chapter6/slider/SliderTests.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/exercises/chapter7/contextmenu/ContextMenuTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/exercises/chapter7/contextmenu/ContextMenuTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/exercises/chapter8/frames/FrameTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/exercises/chapter9/wait/WaitTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/frames/FrameTests.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/getBrokenImages/GetBrokenImgTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/DynamicLoadingExample1Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/DynamicLoadingExample1Page.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/DynamicLoadingExample2Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/DynamicLoadingExample2Page.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/utils/EventReporter.java" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/main/java/utils/EventReporter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/alerts/AlertTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/alerts/AlertTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/base/BaseTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/base/BaseTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/hover/HoverTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/javascript/JavaScriptTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/keys/KeysTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/login/LoginTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/navigation/NavigationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-webdriver-java-course/webdriver_java/src/test/java/wait/WaitTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java-course/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java-course/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java-course/.idea/TAU _Course.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java-course/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java-course/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java-course/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java-course/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java-course/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java-course/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java-course/resources/IEDriverServer.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java-course/resources/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-webdriver-java-course/selenium-webdriver-java-course" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
